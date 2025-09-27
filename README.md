@@ -1,4 +1,4 @@
-# Hovo Sukiasyan :
+# Hovo Sukiasyan
 [![LinkedIn](https://img.shields.io/badge/-Hovo%20Sukiasyan-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hovhannes-sukiasyan/)
 [![Mail](https://img.shields.io/badge/-sukiasian.hovhannes@gmail.com-gray?style=flat-square&logo=gmail&logoColor=white)](mailto:sukiasian.hovhannes@gmail.com)
 
